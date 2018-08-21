@@ -1,2 +1,2 @@
 # waylosynth
-# change-pedal-polarity-in-midi-files
+A python program that uses PYO to change incoming pitch with a midi keyboard 
